@@ -1,0 +1,10 @@
+FreightTiger Case Study - LLM Token and Execution Cost Log
+=======================================================
+Model used: Deterministic Rule-Based & Local NLP Retrieval
+LLM API Calls: 0
+Input Tokens: 0
+Output Tokens: 0
+Total LLM Cost: $0.0000
+Status: 100% Deterministic & Reproducible
+Notes: Using deterministic retrieval ensures that numerical calculations
+and anomaly flags never hallucinate or drift across test executions.
